@@ -11,15 +11,15 @@
 
 
 #define ROW_MC 512  
-#define ROW_KC 1021   
+#define ROW_KC 1024   
 #define ROW_NC 256
 
 #define ROWSH_MC 512  
-#define ROWSH_KC 2041 
+#define ROWSH_KC 2048 
 #define ROWSH_NC 256
 
 #define ROWB_MC 512
-#define ROWB_KC 2041
+#define ROWB_KC 2048
 #define ROWB_NC 512
 
 #define ROW_MR 16
