@@ -42,3 +42,20 @@ We compare MPGEMM against four SME-enabled GEMM implementations: Apple’s Accel
 
 ![alt text](performance1.png)
 ![alt text](performance2.png)
+
+# Citation
+If you find MpGEMM helpful in your project or research, please consider citing our paper:
+```bibtex
+@article{ye2025MpGEMM,
+    title = {Demystifying ARM SME to Optimize General Matrix Multiplications},
+    author = {
+      Chencheng Deng and
+      Weiling Yang and
+      Jianbin Fang and 
+      Dezun Dong
+    },
+    journal = {arXiv preprint arXiv:2512.21473},
+    year = {2025},
+    url = {[https://arxiv.org/abs/2512.21473](https://arxiv.org/pdf/2512.21473)}
+}
+```
